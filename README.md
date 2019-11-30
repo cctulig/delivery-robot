@@ -3,7 +3,7 @@ WPI robotics class (rbe 1101) final project, where using design analysis, autono
 
 Here you will find the final program, the writen report, and some pictures of the project. 
 
-Note: the final report was writen by multiple people late at night, so grammer and flow may not be entirely there. However, the entirety of the program was written by me and integrated into a template that we were given. Essentially, the template handled the connecting to the remote control and handled the 20 sec autonomous time and 120 sec remote time.
+Note: The final report was writen by multiple people. However, the program was written by me and integrated into a template that we were given. Essentially, the template handled the connecting to the remote control and handled the 20 sec autonomous time and 120 sec remote time.
 
 My Files: Auto.h, Auto.cpp, Chassis.h, Chassis.cpp, Arm.h, Arm.cpp
 Modified Template Files: MyRobot.h, MyRobot.cpp
