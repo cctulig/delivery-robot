@@ -1,5 +1,5 @@
 # delivery-robot
-WPI robotics class (rbe 1101) final project, where using design analysis, autonomous programming competency, sensor integration, and a custom built electronic circuit to navigate and deliver items in a model of WPI.
+WPI robotics class (rbe 1001) final project, where using design analysis, autonomous programming competency, sensor integration, and a custom built electronic circuit to navigate and deliver items in a model of WPI.
 
 Here you will find the final program, the writen report, and some pictures of the project. 
 
